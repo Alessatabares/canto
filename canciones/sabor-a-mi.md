@@ -55,17 +55,22 @@ que yo guardo tu sabor
 pero tú llevas también... sabor a mí.
 ```
 
-### Contorno (dónde sube la melodía)
+### 📈 Gráfica de la melodía (cada barra = 1 sílaba; más alta = más aguda)
+Altura:  █ A4  ·  ▆ G4  ·  ▅ F4  ·  ▄ E4  ·  ▃ D4  ·  ▂ C4  ·  ▁ A3
 ```
-A4 ┤              al·              ·a(mí)
-G4 ┤    fru        ·mas    lle  sa·
-F4 ┤ to tiem  a·mor tras    tú  ·vas bor  mí
-E4 ┤        po
-D4 ┤ mos  es        ron tan  bién·
-C4 ┤Tan  de te a    ·to a·  que·yo  sa·
-A3 ┤                  ·sí
-   └───────────────────────────────────────
-     frase 1      frase 2   fr.3   frase 4
+F1  ▂    ▅    ▅    ▄    ▅    ▆    ▅    ▃    ▂    ▃    ▂    ▂    ▅
+    Tan  to   tiem po   dis  fru  ta   mos  de   es   te   a    mor
+
+F2  ▃    ▅    █    ▆    ▅    ▆    ▅    ▃    ▂    ▃    ▂    ▁    ▂
+    nues tras al   mas  se   a    cer  ca   ron  tan  to   a    sí
+                   ▲PICO A4                              ▲A3 (grave)
+
+F3  ▂    ▅    ▅    ▄    ▃    ▂    ▂
+    que  yo   guar do   tu   sa   bor
+
+F4  ▂    ▃    ▅    ▆    ▅    ▃    ▂    ▅    ▆    █    ▅
+    pe   ro   tú   lle  vas  tam  bién sa   bor  a    mí
+                                                 ▲PICO A4
 ```
 
 ### Notas por palabra (Fa mayor) + dinámica de cada frase
