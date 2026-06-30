@@ -60,28 +60,48 @@ Suave → crece → suave, sin empujar.
 ### Notas por palabra (Fa mayor) + dinámica de cada frase
 
 **Frase 1** · dinámica: **p (íntimo, muy legato)** · pico G4
-| Tan | to | tiem | po | dis | fru | ta | mos | de | es | te | a | mor |
-|-----|----|------|----|----|-----|----|-----|----|----|----|----|-----|
-| C4 | F4 | F4 | E4 | F4 | **G4** | F4 | D4 | C4 | D4 | C4 | C4 | F4↘ |
+| Palabra | Sílabas | Notas |
+|---|---|---|
+| Tanto | Tan-to | C4 · F4 |
+| tiempo | tiem-po | F4 · E4 |
+| disfrutamos | dis-fru-ta-mos | F4 · **G4** · F4 · D4 |
+| de | de | C4 |
+| este | es-te | D4 · C4 |
+| amor | a-mor | C4 · F4↘ |
 
 → *"amor"* se sostiene en F4 con **messa di voce** (crece y vuelve a bajar).
 
 **Frase 2** · dinámica: **mp → mf (clímax)** · pico **A4** · toca tu **A3**
-| nues | tras | al | mas | se | a | cer | ca | ron | tan | to | a | sí |
-|------|------|----|-----|----|----|----|----|-----|-----|----|----|----|
-| D4 | F4 | **A4** | G4 | F4 | G4 | F4 | D4 | C4 | D4 | C4 | **A3** | C4 |
+| Palabra | Sílabas | Notas |
+|---|---|---|
+| nuestras | nues-tras | D4 · F4 |
+| almas | al-mas | **A4** · G4 |
+| se | se | F4 |
+| acercaron | a-cer-ca-ron | G4 · F4 · D4 · C4 |
+| tanto | tan-to | D4 · C4 |
+| así | a-sí | **A3** · C4 |
 
-→ **"AL·mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
+→ **"AL-mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
 
 **Frase 3** · dinámica: **mp (reflexivo, hablado)**
-| que | yo | guar | do | tu | sa | bor |
-|-----|----|------|----|----|----|-----|
-| C4 | F4 | F4 | E4 | D4 | C4 | C4↘ |
+| Palabra | Sílabas | Notas |
+|---|---|---|
+| que | que | C4 |
+| yo | yo | F4 |
+| guardo | guar-do | F4 · E4 |
+| tu | tu | D4 |
+| sabor | sa-bor | C4 · C4↘ |
 
 **Frase 4** · dinámica: **crece a mf y resuelve en dim** · pico **A4**
-| pe | ro | tú | lle | vas | tam | bién | sa | bor | a | mí |
-|----|----|----|-----|-----|-----|------|----|-----|----|----|
-| C4 | D4 | F4 | **G4** | F4 | D4 | C4 | F4 | G4 | **A4** | F4↘ |
+| Palabra | Sílabas | Notas |
+|---|---|---|
+| pero | pe-ro | C4 · D4 |
+| tú | tú | F4 |
+| llevas | lle-vas | G4 · F4 |
+| también | tam-bién | D4 · C4 |
+| sabor | sa-bor | F4 · G4 |
+| a | a | **A4** |
+| mí | mí | F4↘ |
 
 → **"a MÍ" = A4** y resuelve en F4 (tónica). Cierre en **diminuendo**, casi un suspiro.
 
