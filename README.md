@@ -1,51 +1,31 @@
 # canto
 
-Coach de canto privado: **análisis de voz** + **mapas de notas por canción** para
-practicar con Vocal Pitch Monitor.
+Repo privado. **Coach de canto por sesiones.** Una canción por archivo en `canciones/`.
 
-Repo **privado** y separado del de idiomas. Las grabaciones de voz **no se suben**
-(privacidad + tamaño): solo se versiona el *análisis* (números) y los mapas de canción.
+## Cómo trabajamos
+
+1. **Tú me dices la canción.**
+2. Elijo el **tono** (que la nota más alta caiga en **A4–B4, nunca C5**) y armo el mapa en `canciones/<cancion>.md`.
+3. Cada archivo de canción tiene esta forma:
+   - **🔥 Calentamiento arriba** (con Vocal Pitch Monitor) — se repite cada sesión.
+   - **📅 Sesiones abajo** — `## Sesión N — fecha · avance`, con **notas por palabra/frase** y **dinámica**.
+4. Practicas con **Vocal Pitch Monitor (VPM)**, me cuentas cómo te fue, y **registramos el avance** en el mismo archivo, sesión por sesión.
+
+## Tu voz (referencia rápida)
+
+- Mezzo/alto medio-grave. **Zona verde cómoda: G3 → A4** · centro **B3/C4**.
+- **C5 = zona roja** (la garganta se cierra). Techo útil para picos: **A4–B4**.
+- **Constricción:** la garganta se cierra al empujar/subir → **calentar SIEMPRE con SOVT** (trino de labios / popote) y **soltar, no forzar**. Nunca cantar con dolor.
+- Afinación: deriva ~30 cents → puntería de tono con VPM (apuntar al centro de la barra).
+- **Regla de tono:** transponer cada canción para que su pico quede en **A4–B4, no en C5**.
 
 ## Estructura
 
 ```
 canto/
-├── perfil.md              # tu mapa vocal (rango, zona verde, regla de tono)
-├── tools/
-│   └── analizar_voz.py    # analiza una grabación -> rango, tesitura, estabilidad, brillo
-├── grabaciones/           # tus audios (NO se versionan; .gitignore)
-├── analisis/              # reportes .json/.md de cada grabación (sí se versionan)
-└── canciones/             # mapas palabra->nota por canción (sí se versionan)
+├── README.md      # esto (workflow + tu voz)
+└── canciones/     # un .md por canción: calentamiento + bitácora por sesión
+    └── sabor-a-mi.md
 ```
 
-## Setup (una vez)
-
-```bash
-cd canto
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-# para leer .m4a/.mp3 hace falta ffmpeg; con .wav no:
-#   (Windows) instala ffmpeg o exporta a WAV desde Audacity
-```
-
-## Flujo de trabajo
-
-1. **Graba** una toma corta (10-20 s) **a capela**, sin pista de fondo, con volumen
-   parejo. Guárdala en `grabaciones/` (mejor **.wav**).
-   - Más fácil: grabador de Windows o Audacity → exporta WAV → cópialo a `grabaciones/`.
-2. **Analiza**:
-   ```bash
-   python tools/analizar_voz.py grabaciones/mi_toma.wav
-   ```
-   Escribe `analisis/mi_toma.json` + `.md` e imprime un resumen (rango, tesitura,
-   afinación, brillo).
-3. **Coach**: me pasas el resumen (o el .md) y te interpreto: tu clasificación
-   aproximada, en qué **tono** cantar, qué **canciones/géneros** te caen bien.
-4. **Mapa de canción**: eliges canción → te devuelvo el mapa **palabra → nota** en
-   tu tono (pico en A4–B4, no en C5) → lo sigues en **Vocal Pitch Monitor**.
-
-## Privacidad
-
-Repo privado. `grabaciones/` está en `.gitignore`: tu voz cruda **nunca** sale a
-GitHub; solo el análisis numérico y los mapas.
+> Privado. Lo que practiques (audios) se queda en tu equipo; aquí solo viven los mapas y el avance escrito.
