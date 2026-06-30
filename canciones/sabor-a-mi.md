@@ -47,6 +47,44 @@ Suave → crece → suave, sin empujar.
 **🎯 Avance de hoy:** aprender la primera estrofa completa — notas por palabra + arco de dinámica.
 **✅ Logrado:** el **A3** ya sale (soltando, no empujando; deslizando desde C4). Glissando y VPM entendidos.
 
+### 🎚️ Dinámica de la estrofa
+```
+   mf ┤        ╱╲ (almas A4)        ╱╲ (a MÍ A4)
+   mp ┤      ╱    ╲___          ╱      ╲
+    p ┤ ___╱          ╲_______╱          ╲___
+      └ fr1 ───── fr2 ──── fr3 ──── fr4 ─────
+        íntimo   clímax   reflexivo  cierre
+```
+**p** al abrir (como un secreto) · **mf** SOLO en los dos A4 (brillo, **no** volumen) · **dim** en cada cierre, sobre todo el último *"a mí"*.
+
+### Notas por palabra (Fa mayor) + dinámica de cada frase
+
+**Frase 1** · dinámica: **p (íntimo, muy legato)** · pico G4
+| Tan | to | tiem | po | dis | fru | ta | mos | de | es | te | a | mor |
+|-----|----|------|----|----|-----|----|-----|----|----|----|----|-----|
+| C4 | F4 | F4 | E4 | F4 | **G4** | F4 | D4 | C4 | D4 | C4 | C4 | F4↘ |
+
+→ *"amor"* se sostiene en F4 con **messa di voce** (crece y vuelve a bajar).
+
+**Frase 2** · dinámica: **mp → mf (clímax)** · pico **A4** · toca tu **A3**
+| nues | tras | al | mas | se | a | cer | ca | ron | tan | to | a | sí |
+|------|------|----|-----|----|----|----|----|-----|-----|----|----|----|
+| D4 | F4 | **A4** | G4 | F4 | G4 | F4 | D4 | C4 | D4 | C4 | **A3** | C4 |
+
+→ **"AL·mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
+
+**Frase 3** · dinámica: **mp (reflexivo, hablado)**
+| que | yo | guar | do | tu | sa | bor |
+|-----|----|------|----|----|----|-----|
+| C4 | F4 | F4 | E4 | D4 | C4 | C4↘ |
+
+**Frase 4** · dinámica: **crece a mf y resuelve en dim** · pico **A4**
+| pe | ro | tú | lle | vas | tam | bién | sa | bor | a | mí |
+|----|----|----|-----|-----|-----|------|----|-----|----|----|
+| C4 | D4 | F4 | **G4** | F4 | D4 | C4 | F4 | G4 | **A4** | F4↘ |
+
+→ **"a MÍ" = A4** y resuelve en F4 (tónica). Cierre en **diminuendo**, casi un suspiro.
+
 ### Letra
 ```
 Tanto tiempo disfrutamos de este amor
@@ -93,34 +131,6 @@ C4 │ ↗                             ↗
    │ pe   ro   tú   lle  vas  tam  bién sa   bor  a    mí
 ```
 > En F2 la flecha trepa hasta **A4** ("al-mas") y luego baja hasta tu **A3** ("a-sí"). En F4 vuelve a subir al **A4** ("a-mí") y baja a resolver.
-
-### Palabras englobadas con su nota (+ flechas)
-Flechas: ⬆️ sube mucho · ↗️ sube · ➡️ se mantiene · ↘️ baja · ⬇️ baja mucho. Cada 【palabra·nota】.
-
-**Frase 1** · *p (íntimo, muy legato)* · pico G4
-【Tan·C4】 ⬆️ 【to·F4】 ➡️ 【tiem·F4】 ↘️ 【po·E4】 ↗️ 【dis·F4】 ↗️ 【fru·G4】 ↘️ 【ta·F4】 ⬇️ 【mos·D4】 ↘️ 【de·C4】 ↗️ 【es·D4】 ↘️ 【te·C4】 ➡️ 【a·C4】 ⬆️ 【mor·F4】
-→ *"amor"* se sostiene en F4 con **messa di voce** (crece y vuelve a bajar).
-
-**Frase 2** · *mp → mf (clímax)* · pico **A4** · toca tu **A3**
-【nues·D4】 ⬆️ 【tras·F4】 ⬆️ 【al·A4】 ↘️ 【mas·G4】 ↘️ 【se·F4】 ↗️ 【a·G4】 ↘️ 【cer·F4】 ⬇️ 【ca·D4】 ↘️ 【ron·C4】 ↗️ 【tan·D4】 ↘️ 【to·C4】 ⬇️ 【a·A3】 ⬆️ 【sí·C4】
-→ **"AL·mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
-
-**Frase 3** · *mp (reflexivo, hablado)*
-【que·C4】 ⬆️ 【yo·F4】 ➡️ 【guar·F4】 ↘️ 【do·E4】 ↘️ 【tu·D4】 ↘️ 【sa·C4】 ➡️ 【bor·C4】
-
-**Frase 4** · *crece a mf y resuelve en dim* · pico **A4**
-【pe·C4】 ↗️ 【ro·D4】 ⬆️ 【tú·F4】 ↗️ 【lle·G4】 ↘️ 【vas·F4】 ⬇️ 【tam·D4】 ↘️ 【bién·C4】 ⬆️ 【sa·F4】 ↗️ 【bor·G4】 ↗️ 【a·A4】 ⬇️ 【mí·F4】
-→ **"a MÍ" = A4** y resuelve en F4 (tónica). Cierre en **diminuendo**, casi un suspiro.
-
-### Arco de dinámica de toda la estrofa
-```
-   mf ┤        ╱╲ (almas A4)        ╱╲ (a MÍ A4)
-   mp ┤      ╱    ╲___          ╱      ╲
-    p ┤ ___╱          ╲_______╱          ╲___
-      └ fr1 ───── fr2 ──── fr3 ──── fr4 ─────
-        íntimo   clímax   reflexivo  cierre
-```
-**p** al abrir (como un secreto) · **mf** SOLO en los dos A4 (brillo, **no** volumen) · **dim** en cada cierre, sobre todo el último *"a mí"*.
 
 ### Recordatorios de técnica
 - **Vocales:** **A** en los picos (alta/redonda, no estirada) · **O** cálida en *amor/sabor* · **I** (*así/mí*) mandíbula suelta; si cierra → modifica hacia **O/A**.
