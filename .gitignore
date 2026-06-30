@@ -1,0 +1,15 @@
+# entorno
+.venv/
+__pycache__/
+*.pyc
+
+# audio personal: NO se versiona (privacidad + tamaño)
+grabaciones/*
+!grabaciones/.gitkeep
+
+# audio suelto en cualquier lado
+*.wav
+*.m4a
+*.mp3
+*.ogg
+*.flac
