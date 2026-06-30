@@ -55,23 +55,40 @@ que yo guardo tu sabor
 pero tú llevas también... sabor a mí.
 ```
 
-### 📈 Gráfica de la melodía (cada barra = 1 sílaba; más alta = más aguda)
-Altura:  █ A4  ·  ▆ G4  ·  ▅ F4  ·  ▄ E4  ·  ▃ D4  ·  ▂ C4  ·  ▁ A3
+### 🎼 Línea melódica (sube / baja / se sostiene)
+La línea sigue la melodía: **sube** ╭╯ = nota más aguda · **baja** ╮╰ = más grave · **plana** ●─── = se sostiene. El nombre de la nota está a la izquierda.
 ```
-F1  ▂    ▅    ▅    ▄    ▅    ▆    ▅    ▃    ▂    ▃    ▂    ▂    ▅
-    Tan  to   tiem po   dis  fru  ta   mos  de   es   te   a    mor
+G4 │                         ╭●───╮
+F4 │     ╭●────●───╮    ╭●───╯    ╰●───╮                        ╭●───
+E4 │     │         ╰●───╯              │                        │
+D4 │     │                             ╰●───╮    ╭●───╮         │
+C4 │ ●───╯                                  ╰●───╯    ╰●────●───╯
+   │ Tan  to   tiem po   dis  fru  ta   mos  de   es   te   a    mor
 
-F2  ▃    ▅    █    ▆    ▅    ▆    ▅    ▃    ▂    ▃    ▂    ▁    ▂
-    nues tras al   mas  se   a    cer  ca   ron  tan  to   a    sí
-                   ▲PICO A4                              ▲A3 (grave)
+A4 │          ╭●───╮
+G4 │          │    ╰●───╮    ╭●───╮
+F4 │     ╭●───╯         ╰●───╯    ╰●───╮
+E4 │     │                             │
+D4 │ ●───╯                             ╰●───╮    ╭●───╮
+C4 │                                        ╰●───╯    ╰●───╮    ╭●───
+A3 │                                                       ╰●───╯
+   │ nues tras al   mas  se   a    cer  ca   ron  tan  to   a    sí
 
-F3  ▂    ▅    ▅    ▄    ▃    ▂    ▂
-    que  yo   guar do   tu   sa   bor
+F4 │     ╭●────●───╮
+E4 │     │         ╰●───╮
+D4 │     │              ╰●───╮
+C4 │ ●───╯                   ╰●────●───
+   │ que  yo   guar do   tu   sa   bor
 
-F4  ▂    ▃    ▅    ▆    ▅    ▃    ▂    ▅    ▆    █    ▅
-    pe   ro   tú   lle  vas  tam  bién sa   bor  a    mí
-                                                 ▲PICO A4
+A4 │                                             ╭●───╮
+G4 │               ╭●───╮                   ╭●───╯    │
+F4 │          ╭●───╯    ╰●───╮         ╭●───╯         ╰●───
+E4 │          │              │         │
+D4 │     ╭●───╯              ╰●───╮    │
+C4 │ ●───╯                        ╰●───╯
+   │ pe   ro   tú   lle  vas  tam  bién sa   bor  a    mí
 ```
+> En F2 la línea trepa a **A4** ("al-mas") y luego cae hasta tu **A3** ("a-sí"). En F4 vuelve a subir al **A4** ("a-mí") y baja a resolver.
 
 ### Notas por palabra (Fa mayor) + dinámica de cada frase
 
