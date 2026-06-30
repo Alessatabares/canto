@@ -59,33 +59,36 @@ Suave → crece → suave, sin empujar.
 
 ### Notas por palabra (Fa mayor) + dinámica de cada frase
 
-> Dentro de cada palabra las flechas van **pegadas a las sílabas** (su movimiento interno); en el **espacio** entre palabras, la flecha de **transición** a la siguiente. Flechas: ↑ sube mucho · ↗ sube · → se mantiene · ↘ baja · ↓ baja mucho.
+> En cada tabla: **arriba las flechas** (la de encima de una sílaba = hacia dónde va esa nota; la del **hueco** entre palabras = transición a la siguiente), en medio las sílabas, abajo las notas. ↑ sube mucho · ↗ sube · → se mantiene · ↘ baja · ↓ baja mucho.
 
 **Frase 1** · dinámica: **p (íntimo, muy legato)** · pico G4
-```
-Tan↑to   →   tiem↘po   ↗   dis↗fru↘ta↓mos   ↘   de   ↗   es↘te   →   a↑mor
-C4  F4       F4   E4       F4  G4  F4 D4        C4       D4 C4       C4 F4↘
-```
+| ↑ |   | → | ↘ |   | ↗ | ↗ | ↘ | ↓ |   | ↘ |   | ↗ | ↘ |   | → | ↑ |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Tan | to |   | tiem | po |   | dis | fru | ta | mos |   | de |   | es | te |   | a | mor |
+| C4 | F4 |   | F4 | E4 |   | F4 | **G4** | F4 | D4 |   | C4 |   | D4 | C4 |   | C4 | F4↘ |
+
 → *"amor"* se sostiene en F4 con **messa di voce** (crece y vuelve a bajar).
 
 **Frase 2** · dinámica: **mp → mf (clímax)** · pico **A4** · toca tu **A3**
-```
-nues↑tras   ↑   al↘mas   ↘   se   ↗   a↘cer↓ca↘ron   ↗   tan↘to   ↓   a↑sí
-D4   F4         A4 G4        F4       G4 F4 D4 C4        D4  C4       A3 C4
-```
+| ↑ |   | ↑ | ↘ |   | ↘ |   | ↗ | ↘ | ↓ | ↘ |   | ↗ | ↘ |   | ↓ | ↑ |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| nues | tras |   | al | mas |   | se |   | a | cer | ca | ron |   | tan | to |   | a | sí |
+| D4 | F4 |   | **A4** | G4 |   | F4 |   | G4 | F4 | D4 | C4 |   | D4 | C4 |   | **A3** | C4 |
+
 → **"AL-mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
 
 **Frase 3** · dinámica: **mp (reflexivo, hablado)**
-```
-que   ↑   yo   →   guar↘do   ↘   tu   ↘   sa→bor
-C4        F4       F4   E4       D4       C4 C4↘
-```
+|   | ↑ |   | → | ↘ |   | ↘ |   | ↘ | → |   |
+|---|---|---|---|---|---|---|---|---|---|---|
+| que |   | yo |   | guar | do |   | tu |   | sa | bor |
+| C4 |   | F4 |   | F4 | E4 |   | D4 |   | C4 | C4↘ |
 
 **Frase 4** · dinámica: **crece a mf y resuelve en dim** · pico **A4**
-```
-pe↗ro   ↑   tú   ↗   lle↘vas   ↓   tam↘bién   ↑   sa↗bor   ↗   a   ↓   mí
-C4 D4       F4       G4  F4        D4  C4         F4 G4        A4      F4↘
-```
+| ↗ |   | ↑ |   | ↗ | ↘ |   | ↓ | ↘ |   | ↑ | ↗ |   | ↗ |   | ↓ |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| pe | ro |   | tú |   | lle | vas |   | tam | bién |   | sa | bor |   | a |   | mí |
+| C4 | D4 |   | F4 |   | G4 | F4 |   | D4 | C4 |   | F4 | G4 |   | **A4** |   | F4↘ |
+
 → **"a MÍ" = A4** y resuelve en F4 (tónica). Cierre en **diminuendo**, casi un suspiro.
 
 ### Letra
