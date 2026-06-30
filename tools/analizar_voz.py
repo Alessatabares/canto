@@ -19,8 +19,11 @@ from pathlib import Path
 
 import numpy as np
 import librosa
+from scipy.signal import medfilt
 
-FMIN = librosa.note_to_hz("C2")   # ~65 Hz
+# Piso en G2 (~98 Hz): bien por debajo de cualquier grave real de voz femenina,
+# pero alto como para que pyin no invente subarmónicos (octava abajo falsa).
+FMIN = librosa.note_to_hz("G2")   # ~98 Hz
 FMAX = librosa.note_to_hz("C6")   # ~1047 Hz
 
 
@@ -38,7 +41,12 @@ def analizar(path):
             "pista de fondo?"
         )
 
-    lo, hi = np.percentile(f0v, 1), np.percentile(f0v, 99)
+    # Filtro de mediana sobre las notas (en MIDI): mata saltos de octava aislados.
+    midiv = medfilt(librosa.hz_to_midi(f0v), kernel_size=5)
+    f0v = librosa.midi_to_hz(midiv)
+
+    # Rango robusto (2-98 percentil): ignora picos sueltos en los extremos.
+    lo, hi = np.percentile(f0v, 2), np.percentile(f0v, 98)
     median = np.median(f0v)
     t_lo, t_hi = np.percentile(f0v, 10), np.percentile(f0v, 90)  # tesitura cómoda
 
