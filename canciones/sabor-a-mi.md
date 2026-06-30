@@ -59,29 +59,29 @@ Suave → crece → suave, sin empujar.
 
 ### Notas por palabra (Fa mayor) + dinámica de cada frase
 
-> Cada bloque de columnas es una palabra; la **columna vacía** entre ellos las separa. Arriba la sílaba, abajo su nota.
+> Entre palabras, la **flecha** muestra cómo salta la melodía a la siguiente: ⬆️ sube mucho · ↗️ sube · ➡️ se mantiene · ↘️ baja · ⬇️ baja mucho. Arriba la sílaba, abajo su nota.
 
 **Frase 1** · dinámica: **p (íntimo, muy legato)** · pico G4
-| Tan | to |   | tiem | po |   | dis | fru | ta | mos |   | de |   | es | te |   | a | mor |
+| Tan | to | ➡️ | tiem | po | ↗️ | dis | fru | ta | mos | ↘️ | de | ↗️ | es | te | ➡️ | a | mor |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | C4 | F4 |   | F4 | E4 |   | F4 | **G4** | F4 | D4 |   | C4 |   | D4 | C4 |   | C4 | F4↘ |
 
 → *"amor"* se sostiene en F4 con **messa di voce** (crece y vuelve a bajar).
 
 **Frase 2** · dinámica: **mp → mf (clímax)** · pico **A4** · toca tu **A3**
-| nues | tras |   | al | mas |   | se |   | a | cer | ca | ron |   | tan | to |   | a | sí |
+| nues | tras | ⬆️ | al | mas | ↘️ | se | ↗️ | a | cer | ca | ron | ↗️ | tan | to | ⬇️ | a | sí |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | D4 | F4 |   | **A4** | G4 |   | F4 |   | G4 | F4 | D4 | C4 |   | D4 | C4 |   | **A3** | C4 |
 
 → **"AL-mas" = A4** (llega con aire, no empujando). **"a-sí" baja a A3** (suave, soltando).
 
 **Frase 3** · dinámica: **mp (reflexivo, hablado)**
-| que |   | yo |   | guar | do |   | tu |   | sa | bor |
+| que | ⬆️ | yo | ➡️ | guar | do | ↘️ | tu | ↘️ | sa | bor |
 |---|---|---|---|---|---|---|---|---|---|---|
 | C4 |   | F4 |   | F4 | E4 |   | D4 |   | C4 | C4↘ |
 
 **Frase 4** · dinámica: **crece a mf y resuelve en dim** · pico **A4**
-| pe | ro |   | tú |   | lle | vas |   | tam | bién |   | sa | bor |   | a |   | mí |
+| pe | ro | ⬆️ | tú | ↗️ | lle | vas | ⬇️ | tam | bién | ⬆️ | sa | bor | ↗️ | a | ⬇️ | mí |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | C4 | D4 |   | F4 |   | G4 | F4 |   | D4 | C4 |   | F4 | G4 |   | **A4** |   | F4↘ |
 
